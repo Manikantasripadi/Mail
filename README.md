@@ -1,7 +1,7 @@
 
 <img align="right" src="https://hostingaro.com/static/brand/icon.png">
 
-# Hostingaro Email Clienth
+# Hostingaro Email Client
 
 *Fully featured, open source, privacy oriented email app for Android*
 
