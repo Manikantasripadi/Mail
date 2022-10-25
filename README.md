@@ -111,7 +111,7 @@ because earlier Android versions do not support notification channels.
 
 ## License
 
-Copyright &copy; 2018-2022 Marcel Bokhorst. All rights reserved.
+Copyright &copy; 2018-2022 Neoistone. All rights reserved.
 
 [GNU General Public License version 3](https://www.gnu.org/licenses/gpl.txt)
 
